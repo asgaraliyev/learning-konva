@@ -7,6 +7,7 @@ export default function App() {
       <Stage
         width={window.innerWidth}
         height={window.innerHeight}
+        height={window.innerHeight}
         style={{ backgroundImage: 'url( "/background.png")' }}
       ></Stage>
     </>
